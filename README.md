@@ -11,5 +11,5 @@ Any Unity developer with experience in Multiplayer Networking can contribute to 
 
 # Screenshots
 #### In-Game View of a player
-![](/sample.png)
+![Single Player](/SinglePlayer.png)
 
